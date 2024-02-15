@@ -1,0 +1,2 @@
+#Phyton 3.11.8
+django==4.2 
